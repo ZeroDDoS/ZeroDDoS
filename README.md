@@ -13,7 +13,7 @@
 
 <p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=ZeroDDoS alt=ZeroDDoS/> </p>
 <p align="center">
-  <a href="https://github.com/ZeroDDoS"><img src="https://github-readme-stats.vercel.app/api?username=apriza09&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/ZeroDDoS"><img src="https://github-readme-stats.vercel.app/api?username=ZeroDDoS&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
